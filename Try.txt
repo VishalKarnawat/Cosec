@@ -7,4 +7,4 @@
 7 coffe
 8 milk
 9 butter
-
+10 chai
